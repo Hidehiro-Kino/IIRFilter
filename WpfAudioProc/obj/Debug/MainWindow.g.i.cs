@@ -40,6 +40,62 @@ namespace WpfAudioProc {
     /// </summary>
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 41 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.ComboBox ComboFltType0;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 61 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.ComboBox ComboFltType1;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 79 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox TextBoxInFile;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 80 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button OpenFile;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 90 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox TextBoxOutFile;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 99 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Run;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 100 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox TextBoxRun;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -68,6 +124,30 @@ namespace WpfAudioProc {
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
         void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.ComboFltType0 = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 2:
+            this.ComboFltType1 = ((System.Windows.Controls.ComboBox)(target));
+            return;
+            case 3:
+            this.TextBoxInFile = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 4:
+            this.OpenFile = ((System.Windows.Controls.Button)(target));
+            return;
+            case 5:
+            this.TextBoxOutFile = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 6:
+            this.Run = ((System.Windows.Controls.Button)(target));
+            return;
+            case 7:
+            this.TextBoxRun = ((System.Windows.Controls.TextBox)(target));
+            return;
+            }
             this._contentLoaded = true;
         }
     }
