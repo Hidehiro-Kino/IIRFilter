@@ -5,22 +5,40 @@ VisualStudioVersion = 16.0.36324.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AudioProc_kino", "AudioProc_kino\AudioProc_kino.vcxproj", "{CFFBB333-A28B-426C-8099-6F1609E97204}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAudioProc", "WpfAudioProc\WpfAudioProc.csproj", "{48B835EB-DCCC-44A4-8FC1-98CA77C55372}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFBB333-A28B-426C-8099-6F1609E97204}.Debug|Any CPU.ActiveCfg = Debug|Win32
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Debug|x64.ActiveCfg = Debug|x64
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Debug|x64.Build.0 = Debug|x64
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Debug|x86.ActiveCfg = Debug|Win32
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Debug|x86.Build.0 = Debug|Win32
+		{CFFBB333-A28B-426C-8099-6F1609E97204}.Release|Any CPU.ActiveCfg = Release|Win32
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Release|x64.ActiveCfg = Release|x64
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Release|x64.Build.0 = Release|x64
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Release|x86.ActiveCfg = Release|Win32
 		{CFFBB333-A28B-426C-8099-6F1609E97204}.Release|x86.Build.0 = Release|Win32
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Debug|x64.Build.0 = Debug|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Debug|x86.Build.0 = Debug|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Release|x64.ActiveCfg = Release|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Release|x64.Build.0 = Release|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Release|x86.ActiveCfg = Release|Any CPU
+		{48B835EB-DCCC-44A4-8FC1-98CA77C55372}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -48,11 +48,11 @@ class IIRFilter_kino
 		IIR_FILTER_PARA* m_filter_para;
 
 		int set_filter_num(int num);
+		int init_filter_para();
 		int set_coef_through(int filtNo);
 		int cal_coef_EQ(int filtNo, double fc, double gain, double q);
 		int cal_coef_HPF1(int filtNo, double fc);
 		int cal_coef_LPF1(int filtNo, double fc);
-		int init_filter_para();
 		double exec_filter(int filtNo, double inData);
 };
 

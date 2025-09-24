@@ -1,0 +1,15 @@
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\bin\Debug\WpfAudioProc.exe.config
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\bin\Debug\WpfAudioProc.exe
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\bin\Debug\WpfAudioProc.pdb
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.csproj.AssemblyReference.cache
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\MainWindow.g.cs
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\App.g.cs
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc_MarkupCompile.cache
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc_MarkupCompile.lref
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\MainWindow.baml
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.g.resources
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.Properties.Resources.resources
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.csproj.GenerateResource.cache
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.csproj.CoreCompileInputs.cache
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.exe
+C:\Users\a1060623\source\repos\AudioProc_kino\WpfAudioProc\obj\Debug\WpfAudioProc.pdb
