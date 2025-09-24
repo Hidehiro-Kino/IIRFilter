@@ -11,7 +11,7 @@ enum FilterType {
 	TYPE_EQ,
 };
 
-//IIR Filter 係数（typedefを付けておくと、後のstructを省略できる）（構造体のメンバは;で区切る）
+//IIR Filter 係数
 typedef struct {
 	double a0;
 	double a1;
@@ -37,7 +37,9 @@ class IIRFilter_kino
 	private:
 
 	public:
+		// 
 		IIRFilter_kino();
+		// デストラクタ
 		virtual ~IIRFilter_kino();
 
 		int m_filter_num;
